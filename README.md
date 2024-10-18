@@ -11,7 +11,7 @@ Postman Installation: Make sure you have Postman installed on your system.
 ## Importing the Collection:
 
 Open Postman.
-Click the import icon 
+Click the import icon.
 Paste the collection JSON or upload a JSON file if you have saved the collection on your system.
 Running Automated Tests
 To run all the tests in the collection at once, follow the steps below:
@@ -52,7 +52,7 @@ Instalação do Postman: Certifique-se de ter o Postman instalado em seu sistema
 
 ## Importação da Coleção:
 Abra o Postman.
-Clique no ícone de importação (ou pressione Ctrl + I).
+Clique no ícone de importação.
 Cole o JSON da coleção ou carregue um arquivo JSON se você tiver salvo a coleção em seu sistema.
 Executando os Testes Automatizados
 Para executar todos os testes da coleção de uma só vez, siga os passos abaixo:
