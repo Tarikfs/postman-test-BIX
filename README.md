@@ -1,3 +1,47 @@
+# English
+
+# README
+This README provides instructions on how to use Postman to run automated tests on the "BIX" collection, which interacts with the JSONPlaceholder API.
+
+
+## Prerequisites
+Postman Installation: Make sure you have Postman installed on your system.
+
+
+## Importing the Collection:
+
+Open Postman.
+Click the import icon 
+Paste the collection JSON or upload a JSON file if you have saved the collection on your system.
+Running Automated Tests
+To run all the tests in the collection at once, follow the steps below:
+
+### 1. Open the Collection
+In the left sidebar of Postman, locate the "BIX" collection.
+
+### 2. Run the Collection
+Right-click on the "BIX" collection.
+Select "Run" or click the run icon (a play button) that appears when you hover over the collection.
+
+### 3. Run Settings
+A new window called Collection Runner will open.
+You can choose the number of iterations, the delay between requests, and whether to view the logs.
+
+### 4. Start the Run
+Click the "Run BIX" button at the bottom of the window.
+
+### 5. Check Results
+After the run, you will see a summary of the results:
+Total number of requests executed.
+Number of tests that passed and failed.
+Click on each request to view details and check which tests were executed.
+
+
+
+
+
+# português
+
 # README 
 Este README fornece instruções sobre como usar o Postman para executar testes automatizados na coleção "BIX", que interage com a API do JSONPlaceholder.
 
